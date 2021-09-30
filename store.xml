@@ -1,0 +1,22 @@
+<?xml version="1.0"?>  
+<!DOCTYPE store SYSTEM "store.dtd"> 
+<store>
+  <type>
+    <name>
+      <tcetshoestore>Pulloshoes</tcetshoestore>
+    </name>
+    <releasedate>October 15, 2005</releasedate>
+    <projects>
+      <project>
+        <product>sneakers</product>
+        <id>111</id>
+        <price>$199.00</price>
+      </project>
+      <project>
+        <product>sports</product>
+        <id>222</id>
+        <price>$98.00</price>
+      </project>
+    </projects>
+  </type>
+</store>   

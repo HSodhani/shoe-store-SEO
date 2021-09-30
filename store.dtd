@@ -1,0 +1,11 @@
+<!ELEMENT store (type)*> 
+<!ELEMENT type (name, releasedate, projects)> 
+<!ELEMENT name (tcetshoestore)> 
+<!ELEMENT tcetshoestore (#PCDATA)> 
+<!ELEMENT (#PCDATA)> 
+<!ELEMENT releasedate (#PCDATA)> 
+<!ELEMENT projects (project)*> 
+<!ELEMENT project (product,id,price)> 
+<!ELEMENT product (#PCDATA)> 
+<!ELEMENT id (#PCDATA)> 
+<!ELEMENT price (#PCDATA)
